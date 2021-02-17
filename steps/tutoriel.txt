@@ -1,0 +1,48 @@
+Première étape :
+ 
+Récupérer l'adresse IP de votre victime. Il y a beaucoup de méthodes mais je vais parler que d'une seule : On va utiliser la plus classique et indémodable "IP logger."
+Cet technique consiste à envoyer a votre victime un lien. Quand la victime clique sur ce lien vous obtenez son IP.
+ 
+Je vous conseille ce site ou tout est automatisé pour récupérer les IPs grabify.link (en plus c'est gratuit, que demande le peuple)
+ 
+Parlons de SE maintenant :
+Il y a plusieurs manières de faire cliquer sa victime sur notre piège.
+Tout dépend de la relation que vous avez avec la victime
+ 
+Exemples de messages :
+-"J'suis mort c'est vraiment toi sur cette images"
+-"Ho purée, tu te rappelles d’elle On en avait parlé l’autre jour c’est hallucinant ce qui lui arrive !"
+ 
+ ATTENTION ! Si la victime possède un VPN, vous ne pourrez rien faire ! ￼
+ 
+Deuxième étape :
+ 
+Les informations extraites sont :
+- Son pays de connexion ;
+- Sa ville de connexion ;
+- Son fournisseur d’accès Internet (Bouygues, SFR,
+etc.) ;
+- L’heure à laquelle elle a cliqué sur votre lien ;
+- Des informations sur l’appareil qu’elle utilise pour se
+connecter ;
+- Des informations sur son navigateur Internet ;
+ 
+Ensuite, allez sur un site tel qu’ iplocation.net pour récupérer son adresse. Vous avez 3 résultats possibles.
+1. Faux emplacement (Dans le cas d'une utilisation de VPN/Proxy)
+2. Paris, au beau milieu de la seine. Dans ce cas-là c'est une IP 4g
+3. L'adresse de notre victime.
+ 
+Troisième étape :
+ 
+Cherchez maintenant le numéro d'assistance de l'opérateur et appelez l'opérateur de votre victime avec du crédit skype ou une sim anonyme et trouvez un prétexte genre
+"Bonjour je subis actuellement une attaque DDoS et j'ai réussi a intercepter l'IP attaquante (l'IP de la victime a dox) et j'aimerai porter plainte contre cet individu. Puis-je avoir son nom prénom, son nom de famille et son numéro de téléphone èsvépé" 
+ ATTENTION: Je ne pousse personne à utiliser cette technique car le fait de porter plainte contre un innocent, et bah c'est pas cool. Ce n'est qu'un exemple parmis tant d'autres !
+ 
+Bon c'est qu'un exemple mais en gros, réfléchissez à un moyen pour pouvoir récupérer ses informations grâce au SE
+ 
+Je pense que c'est tout, si j'ai oublié quelque chose n'hésitez pas à me le dire afin que je corrige ce thread.
+ 
+Sources:
+-https://en.wikipedia.org/wiki/Doxing
+-https://grabify.link
+-https://www.iplocation.net
